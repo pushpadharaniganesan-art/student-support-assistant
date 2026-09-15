@@ -1,0 +1,30 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "HidlXt4cRwbF_LJcg3afp"
+uri = "file://outputs/student-support-project-report.pdf"
+type = "pdf"
+title = "Student Support Assistant Project Report (PDF)"
+description = "A structured project report covering the overview, objectives, agentic AI solution, implementation, screenshot, results, conclusion, future scope, and references."
+logical_id = "0e3d3ead-f913-4da7-bfc5-b8a5110589f2"
+content_hash = "sha256:bae1a263fe549f1fccd48e069c35ca6cab0a28e9f857d2911ddb1204eb2a61f7"
+size = 241239
+mtime_ms = 1789033420922
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:b76e6c5c-0392-4f43-a4ed-aa5418cb412a/0e3d3ead-f913-4da7-bfc5-b8a5110589f2/6b78d98b-31cc-4337-aabe-30ed8a2d1ff5"
+storage_version_token = "1789033437621673"
+content_type = "application/pdf"
+
+[[outputs]]
+id = "Rh-zpYB_v68M6f9kV3reD"
+uri = "file://outputs/student-support-app-screenshot.jpg"
+type = "image"
+title = "Student Support Assistant App Screenshot"
+description = "Screenshot of the working Harbor student-support assistant interface used in the project report."
+logical_id = "08c2d82f-573a-43d9-875d-504db6601899"
+content_hash = "sha256:027d5d9ca5aef318ecf333036ab7d8f6dc078ec7552d18d63c711a505a990c33"
+size = 110407
+mtime_ms = 1789033353746
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:b76e6c5c-0392-4f43-a4ed-aa5418cb412a/08c2d82f-573a-43d9-875d-504db6601899/5293a075-a67b-472d-8df8-954da0dd50e2"
+storage_version_token = "1789033438977370"
+content_type = "image/jpeg"
